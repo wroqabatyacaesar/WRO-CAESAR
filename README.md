@@ -1,4 +1,6 @@
-#Introduction
+
+# Introduction #
+
 We are the Kanaan team from the Qabatiya Directorate of Education of the State of Palestine.  We designed, assembled and programmed the robot, which we called Caesar, to perform the tasks and performance required in preparation for participation in the World Robotics Olympiad (WRO) competition.
 
 The vehicle CAESAR is designed using two microcontrollers: Raspberry Pi, and Arduino. The Arduino is programmed on a Linux environment, which is installed on Raspberry pi, Arduino is connecting to the Raspberry Pi using a serial port, and the platform that is used for programming and uploading the code on Arduino is Arduino IDE ARM version.
